@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say>You're through to Green Dragon Software. Putting you through.</Say>
+    <Dial>
+      <Number url="forward-with-whisper.xml">+447791891343</Number>
+    </Dial>
+</Response>
